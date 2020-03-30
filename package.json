@@ -1,0 +1,19 @@
+{
+  "name": "jest-get-port-sync",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "log-port": "node -v && node log-port",
+    "test": "node -v && jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.2.4"
+  },
+  "dependencies": {
+    "get-port-sync": "^1.0.0"
+  }
+}
